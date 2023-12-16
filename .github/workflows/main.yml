@@ -12,3 +12,4 @@ jobs:
 
         - name: "Login to Docker hub"
           run: docker login --username tarek2003 --password dckr_pat_OlWq6nGwz9A4cVHdWdAWlTBp46k
+
